@@ -16,7 +16,7 @@ This mod is made in compliance of Geometa EULA. Under Section 3 Paragraph 4, `Yo
 
 To use, install [SWML](https://github.com/kiVts/swml) and add the zip from releases here. I also recommend you install [No Crash Uploads](https://github.com/kiVts/no_crashlog_upload) so you don't upload a crash report with an injected DLL to Geometa (a crash is overwhelmingly likely to be due to one of these mods). Consider other mods as well!
 
-This mod is released as a build only; its source is private.
+This mod is released as a build only; Source will come at a later date.
 
 [Rotation Keybinds](https://github.com/kiVts/editor_rotation_rings)
 [Composite Tracer](https://github.com/kiVts/composite_tracer)
